@@ -15,7 +15,7 @@ When someone disagrees with you, you are faced with an opportunity to learn some
 
 When you embrace conflict as part of the job, you lose fear and are then likely to go to the office in a better mood. Think of a Monday morning when you're heading to the office, aware there's a difficult meeting at 10 am. If such difficulty makes you afraid because you see conflict as something unbearable and you'd rather never have to deal with it, then going to the office will probably be painful. Embrace conflict as an opportunity to deliver better results, deepen relationships, and grow professionally. Although it won't stop completely being uncomfortable, you will simply be happier at work.
 
-Based on the above positive consequences of embracing constructive conflict and stopping to always seek consensus, [Amy Gallo argues](https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work) that managers need to take responsibility for making it comfortable to disagree. Here are some ways to do it:
+Based on the above positive consequences of embracing constructive conflict and stopping to always seek consensus, [Amy Gallo argues](https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work){:target="_blank"} that managers need to take responsibility for making it comfortable to disagree. Here are some ways to do it:
 
 - Instead of always trying to be liked, focus on giving and earning respect. An environment where respect is more important than likeability makes people feel safer to disagree.
 - Focus on the business instead of how the disagreement impacts you personally. If it's an argument worth having in the workplace, it is not about you but the business. (I would add that if it's not about the business, it's likely not an argument worth having.)
