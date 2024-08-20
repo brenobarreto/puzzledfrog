@@ -3,7 +3,7 @@ title: Mechanism vs. Policy
 category: Software Engineering
 ---
 
-In [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), Eric Steven Raymond discusses the Unix approach of avoiding enforcing policies and preferring to define a mechanism while leaving the policy definition to the user.
+In [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/){:target="_blank"}, Eric Steven Raymond discusses the Unix approach of avoiding enforcing policies and preferring to define a mechanism while leaving the policy definition to the user.
 
 This is an instigating perspective, so I would like to explore the difference between mechanism and policy a bit further.
 
