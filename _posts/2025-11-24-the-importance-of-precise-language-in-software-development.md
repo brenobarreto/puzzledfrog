@@ -1,5 +1,5 @@
 ---
-title: The importance of precise language in software development
+title: The Importance of Precise Language in Software Development
 category: Software Engineering
 ---
 

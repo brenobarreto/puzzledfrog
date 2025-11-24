@@ -1,5 +1,5 @@
 ---
-title: Management is a moral profession
+title: Management is a Moral Profession
 category: Management
 ---
 
