@@ -3,6 +3,8 @@ title: Projects
 nav_order: 2
 ---
 
+Projects I’ve been working on, all of them centered on Computer Science learning and technical education.
+
 ### Puzzled Frog (YouTube)
 A YouTube channel where I share what I’ve learned about Computer Science and Software Engineering through study, real-world experience, and a genuine interest in how things work.
 
