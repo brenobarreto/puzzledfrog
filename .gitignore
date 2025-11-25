@@ -4,3 +4,9 @@ _site/
 garth-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
+
+# Mac OS
+.DS_Store
+
+# IntelliJ
+.idea/
