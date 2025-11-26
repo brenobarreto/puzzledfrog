@@ -1,6 +1,6 @@
 ---
 title: Reading List
-nav_order: 3
+nav_order: 2
 ---
 
 These are some books that have influenced my thinking about Computer Science, Software Engineering, and Management.

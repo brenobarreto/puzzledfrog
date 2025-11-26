@@ -1,6 +1,6 @@
 ---
 title: Projects
-nav_order: 2
+nav_order: 3
 ---
 
 Projects I’ve been working on, all of them centered on Computer Science learning and technical education.
