@@ -3,15 +3,12 @@ title: Reading List
 nav_order: 2
 ---
 
-These are some books that have influenced my thinking about Computer Science, Software Engineering, and Management.
+These are books that have shaped my thinking or that consistently come up as trusted recommendations from people whose judgment I value. I haven’t finished all of them, but each one has either influenced me already or earned a place on my list because of the strength of those endorsements.
 
 ### Introduction to Algorithms
 *by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein*
 
 <img src="/assets/introduction-to-algorithms.jpg" alt="Introduction to Algorithms Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-
-**Why I like it:**
-
 This is probably _the_ classic reference for understanding algorithms and data structures, so it's a bit of a cliché to list it here. But I have to. This book balances mathematical rigor with practical implementation details in a way that transforms your thinking process.
 
 The book's treatment of algorithm analysis, including asymptotic notation and proof techniques, provides the foundation for reasoning about performance and correctness. Whether you're studying sorting algorithms, graph algorithms, dynamic programming, or advanced topics like NP-completeness, CLRS offers both depth and clarity that few other texts match.
@@ -24,11 +21,70 @@ The book's treatment of algorithm analysis, including asymptotic notation and pr
 *by Michael Spivak*
 
 <img src="/assets/calculus.jpg" alt="Calculus Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-
-**Why I like it:**
-
 Spivak's Calculus is not just another calculus textbook. It's an invitation to think like a mathematician. Instead of presenting calculus as a collection of computational tricks, it builds everything from first principles with careful definitions and rigorous proofs.
 
 The problem sets are legendary for their difficulty and depth, forcing you to truly understand the material rather than simply memorize formulas. This book transformed how I think about mathematical reasoning and precision. It's the perfect bridge between computational calculus and real analysis, teaching you not just what calculus is, but why it works and how to reason about continuous functions with clarity and rigor.
+
+<div style="clear: both;"></div>
+
+---
+
+### Mathematics for Computer Science
+*by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer*
+
+<img src="/assets/mathematics-for-computer-science.jpg" alt="Mathematics for Computer Science Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This book is used at MIT, and that alone hints at its temperament: the book treats mathematics not as a museum of polished results but as a workshop where ideas are built, tested, and occasionally fall apart before taking their final shape. That spirit of intellectual carpentry runs through every chapter. Instead of presenting discrete math as a checklist of techniques—proofs here, induction there—the authors invite you into the habits of thought that computer scientists actually rely on. Definitions unfold with purpose, proofs illuminate rather than intimidate, and every concept feels wired into the logic of computation.
+
+What makes the book addictive is the way it gradually trains your instincts. Counting, probability, graph theory, modular arithmetic—each topic is taught with a combination of rigor and playfulness that nudges you to see structure where you previously saw noise. The exercises are demanding in the best possible way: they force you to grapple with ideas until they become part of your mental toolkit. It’s a course in how to think precisely while still being imaginative, which is exactly the blend of skills that keeps computer science such a strange and beautiful universe to explore.
+
+<div style="clear: both;"></div>
+
+---
+
+### Introduction to the Theory of Computation
+*by Michael Sipser*
+
+<img src="/assets/introduction-to-the-theory-of-computation.jpg" alt="Introduction to the Theory of Computation Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This is a clear and dependable introduction to theoretical computer science. Sipser explains automata, computability and complexity in a way that stays focused on the core ideas without unnecessary ornament. Definitions come with straightforward motivation and the progression of topics helps build a coherent picture of how computation is modeled and analyzed.
+
+What stands out is the balance between intuition and formalism. The explanations make major concepts like Turing machines, reductions, and NP completeness accessible while still preserving their mathematical precision. The book leaves you with a solid understanding of how theoretical limits shape what computers can and cannot do.
+
+<div style="clear: both;"></div>
+
+---
+
+### Computer Systems: A Programmer's Perspective
+*by Randal E. Bryant and David R. O'Hallaron*
+
+<img src="/assets/computer-systems-a-programmers-perspective.jpg" alt="Computer Systems: A Programmer's Perspective Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This book is used at many universities in systems courses, and it earns that place by giving a practical, ground level view of how computers actually execute programs. The authors take you through data representation, machine code, memory, linking and the runtime environment in a way that makes each layer concrete. The presentation is direct and geared toward helping programmers understand the behavior they see in real systems.
+
+I like how it connects low level mechanisms with everyday programming concerns. Concepts like caches, stack frames or concurrency are explained with enough detail to shape intuition without overwhelming you. If you have the stamina to make it to the end (it’s a long book), you come away with a clearer sense of how software interacts with hardware and why certain performance and correctness issues arise in practice.
+
+<div style="clear: both;"></div>
+
+---
+
+### Designing Data-Intensive Applications
+*by Martin Kleppmann*
+
+<img src="/assets/designing-data-intensive-applications.jpg" alt="Designing Data-Intensive Applications Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This book has become a standard reference in modern backend and distributed systems work because it offers a clear and methodical tour of how data systems are actually built. Kleppmann explains storage engines, replication, partitioning, transactions and stream processing with a focus on the real engineering trade offs that drive each design. The writing is calm and precise, which keeps the emphasis on understanding rather than buzzwords.
+
+Its value comes from how it unifies ideas that are usually learned in fragments. By showing the principles that sit underneath databases, queues, distributed logs and coordination services, it gives you a framework for reasoning about system behavior and architectural choices. It gives you a solid grasp of the fundamentals that shape today’s large scale data systems.
+
+<div style="clear: both;"></div>
+
+---
+
+### Structure and Interpretation of Computer Programs
+*by Harold Abelson, Gerald Jay Sussman, and Julie Sussman*
+
+<img src="/assets/structure-and-interpretation-of-computer-programs.jpg" alt="Structure and Interpretation of Computer Programs Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This is a book from 1996, and it has a loyal following among the functional paradigm community and among developers who care about the foundations of programming. The reason is simple: SICP treats programming as a way of expressing ideas with mathematical clarity. It shows how powerful abstractions can be built from simple primitives and how a language can be understood by examining the rules that govern its evaluation. That approach gives the book a timeless quality even though the examples are written in Scheme.
+
+Its value comes from the way it exposes the underlying mechanics of programming. Concepts like higher order procedures, environments, interpreters and stateful systems are developed step by step, making their purpose and behavior unmistakably clear. Instead of teaching a language, it teaches a way of thinking that can be applied across languages and paradigms. It is demanding, but the payoff is a deeper and more systematic understanding of how programs are structured and how computational ideas fit together.
+
+The book is available on <a href="https://web.mit.edu/6.001/6.037/sicp.pdf" target="_blank" rel="noopener noreferrer">MIT's website</a>.
 
 <div style="clear: both;"></div>
