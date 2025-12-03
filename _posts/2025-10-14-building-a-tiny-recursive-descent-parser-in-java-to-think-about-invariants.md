@@ -353,4 +353,4 @@ A tiny evaluator written in an afternoon can reveal this. The geometry is always
 
 ---
 
-If you're curious and want to run this evaluator by yourself, you can find the code in the <a href="https://github.com/puzzled-frog/tiny-recursive-descent-parser" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
+If you're curious and want to run this evaluator by yourself, you can find the code in this <a href="https://github.com/puzzled-frog/tiny-recursive-descent-parser" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
