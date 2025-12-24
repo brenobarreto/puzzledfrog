@@ -17,6 +17,30 @@ The book's treatment of algorithm analysis, including asymptotic notation and pr
 
 ---
 
+### Computer Organization and Design
+*by David A. Patterson and John L. Hennessy*
+
+<img src="/assets/computer-organization-and-design.jpg" alt="Computer Organization and Design Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This book provides a thorough introduction to the relationship between hardware and software, showing how computers are designed from the ground up. Patterson and Hennessy take you from transistors through logic gates, processors, and memory systems with a focus on the principles that guide real implementations. The writing is structured to build intuition about why hardware works the way it does, making concepts like pipelining, caching, and instruction sets comprehensible without sacrificing technical accuracy.
+
+What sets this book apart is its attention to the interplay between architecture and performance. It explains how design decisions at the hardware level directly affect the programs you write, giving you insight into why certain code patterns are faster than others.
+
+<div style="clear: both;"></div>
+
+---
+
+### Computer Architecture: A Quantitative Approach
+*by John L. Hennessy and David A. Patterson*
+
+<img src="/assets/computer-architecture-a-quantitative-approach.jpg" alt="Computer Architecture: A Quantitative Approach Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This is the advanced companion to Computer Organization and Design, and it takes a more analytical view of how modern processors and systems are built. Hennessy and Patterson dive into performance measurement, instruction level parallelism, memory hierarchies, multiprocessors, and the quantitative methods used to evaluate architectural trade offs. The approach is pragmatic: every concept is tied to measurable outcomes, and the book constantly asks what actually makes systems faster or more efficient in practice.
+
+The value here is in how it treats architecture as an engineering discipline driven by data. You learn not just what techniques exist, but how to reason about their costs and benefits in real scenarios. Topics like out of order execution, branch prediction, and cache coherence are explained with both depth and clarity, giving you the tools to understand how high performance systems work and why they are designed the way they are. It's dense, but if you care about the machinery that drives modern computing, it's worth the effort.
+
+<div style="clear: both;"></div>
+
+---
+
 ### Calculus
 *by Michael Spivak*
 
@@ -86,5 +110,15 @@ This is a book from 1996, and it has a loyal following among the functional para
 Its value comes from the way it exposes the underlying mechanics of programming. Concepts like higher order procedures, environments, interpreters and stateful systems are developed step by step, making their purpose and behavior unmistakably clear. Instead of teaching a language, it teaches a way of thinking that can be applied across languages and paradigms. It is demanding, but the payoff is a deeper and more systematic understanding of how programs are structured and how computational ideas fit together.
 
 The book is available on <a href="https://web.mit.edu/6.001/6.037/sicp.pdf" target="_blank" rel="noopener noreferrer">MIT's website</a>.
+
+<div style="clear: both;"></div>
+
+---
+
+### Operating Systems: Three Easy Pieces
+*by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau*
+
+<img src="/assets/operating-systems-three-easy-pieces.jpg" alt="Operating Systems: Three Easy Pieces Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This is a modern and accessible introduction to operating systems that covers virtualization, concurrency, and persistence with unusual clarity. The authors break down complex topics like scheduling, memory management, file systems, and synchronization into digestible pieces, using concrete examples and a conversational tone that makes the material easier to absorb. Each chapter builds on the previous ones in a way that feels natural, and the explanations focus on helping you understand the why behind the mechanisms, not just the what. 
 
 <div style="clear: both;"></div>
