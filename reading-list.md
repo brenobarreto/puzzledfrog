@@ -17,6 +17,18 @@ The book's treatment of algorithm analysis, including asymptotic notation and pr
 
 ---
 
+### Introduction to Computing Systems
+*by Yale N. Patt and Sanjay J. Patel*
+
+<img src="/assets/introduction-to-computing-systems.jpg" alt="Introduction to Computing Systems Cover" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+This book takes a bottom up approach to understanding how computers work, starting from transistors and building all the way up to high level programming concepts. Patt and Patel guide you through logic gates, the LC-3 instruction set architecture, assembly language, and then into C programming, showing how each layer depends on the one below it. The progression is deliberate and systematic, making it an excellent choice for anyone who wants to see the complete picture of how software connects to hardware.
+
+The LC-3 architecture used throughout is simple enough to understand completely, yet rich enough to demonstrate the fundamental principles that apply to real processors. The exercises are well designed to reinforce concepts without overwhelming you, and the explanations are patient and thorough. It is a very good and gentle (but comprehensive) introduction to how computing systems are built from the ground up.
+
+<div style="clear: both;"></div>
+
+---
+
 ### Computer Organization and Design
 *by David A. Patterson and John L. Hennessy*
 
