@@ -3,21 +3,10 @@ title: Projects
 nav_order: 3
 ---
 
-Projects I’ve been working on, all of them centered on Computer Science learning and technical education.
+### Torg
+Torg is a Computer Science learning platform built around problem solving rather than passive content consumption. Instead of treating learning as a sequence of videos or isolated coding drills, it focuses on the deeper intellectual work behind strong engineering: modeling systems, reasoning under constraints, understanding trade-offs, and expressing ideas clearly. Its structure is inspired by the shape of a serious Computer Science curriculum, but the experience is designed to feel active and dialogic, with problems, guided reflection, and AI-assisted coaching playing a central role.
 
-### Puzzled Frog (YouTube)
-A YouTube channel where I share what I’ve learned about Computer Science and Software Engineering through study, real-world experience, and a genuine interest in how things work.
+The project emerged from the belief that, in a world where AI can increasingly generate code, the lasting edge of a software engineer lies in judgment, conceptual clarity, and the ability to work through hard problems.
 
-The videos emphasize clarity, rigor, and conceptual depth, drawing from areas such as logic, discrete mathematics, algorithms, data structures, computability, and the foundations of programming languages. The goal is to bridge hands-on intuition with the kind of well-grounded theory you encounter in serious CS curricula.
-
-<a href="https://www.youtube.com/@puzzled_frog" target="_blank" rel="noopener noreferrer">View Project →</a>
-
----
-
-### Hands-on Java
-A structured monorepo of practical Java projects that take learners from foundational ideas to more advanced concepts through real, self-contained challenges. 
-
-The sequence covers topics such as control flow, object modeling, collections, exception design, testing, file I/O, parsing strategies, and concurrency. Each project comes with design notes that explain the reasoning behind the architecture, along with full reference implementations.
-
-<a href="https://github.com/puzzled-frog/hands-on-java" target="_blank" rel="noopener noreferrer">View Project →</a>
+<a href="https://torg.dev" target="_blank" rel="noopener noreferrer">View Project →</a>
 
