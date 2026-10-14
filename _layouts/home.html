@@ -13,7 +13,13 @@ layout: default
 			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
 			<h1>{{ collectiondata.title }}</h1>
 
-			{{ collectiondata.description | markdownify }}
+			<div class="home-intro">
+				<div class="home-intro__description">{{ collectiondata.description | markdownify }}</div>
+				<span class="home-intro__badge">
+					<img src="{{ '/assets/written-by-humans.svg' | relative_url }}"
+						alt="Written by humans, not by AI" width="104" height="33">
+				</span>
+			</div>
 
     </article>
 

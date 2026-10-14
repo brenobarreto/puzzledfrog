@@ -88,6 +88,43 @@ body {
 }
 
 
+.home-intro {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .6rem 1rem;
+  margin: 1rem 0 2rem;
+
+  .home-intro__description p {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__badge {
+    flex: 0 0 auto;
+    border-left: 1px solid darken($backgroundColour, 15%);
+    padding-left: 1rem;
+    line-height: 0;
+
+    img {
+      display: block;
+      width: 104px;
+      height: auto;
+    }
+  }
+
+  @media (max-width: 640px) {
+    flex-direction: column;
+    align-items: flex-start;
+
+    &__badge {
+      border-left: 0;
+      padding-left: 0;
+    }
+  }
+}
+
+
 // Lists
 .list {
   &--posts {
